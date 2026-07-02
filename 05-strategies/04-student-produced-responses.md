@@ -45,15 +45,13 @@ About 11 of the 44 math questions have no answer choices. They're not harder —
 
 ### Answers
 
-1. `2.236` (or `-2.236`; √5 ≈ 2.2360 — 4 decimals fill 5 characters: `2.236`)
+1. `2.236` or `-2.23` — √5 ≈ 2.2360; a 5-character positive entry `2.236` is accepted (fills the spaces). Either sign works since both square to 5.
 2. `3/8` (or `.375`)
-3. `11/4` (or `2.75`)
-4. `1240.5` — wait: that's 6 characters and positive answers get 5. Enter `1240.5`? Not valid. This is designed awkwardness: the SAT would not ask for such a value as an SPR — its answers always fit. If you ever produce one that doesn't fit, your answer is wrong; re-solve.
-5. `5/6` or `.8333` (also `.8334`? No — fill with the truncated digits `.8333` or round `.8333`; `5/6` is safest)
-6. `47/3` or `15.66` — mean = 47/3 ≈ 15.666... → `15.66` is wrong (doesn't fill); acceptable: `47/3`, `15.67`, or... a 5-character decimal `15.66` fails the fill rule. Enter the fraction.
-7. `9/4` (or `2.25`)
-8. `150`
-9. Any value strictly between 4 and 6, e.g. `5`
-10. `-.375` or `-3/8`
-
-> Items 4–6 are deliberately tricky about the entry mechanics, because the mechanics are the point of this lesson: **when a decimal doesn't fit cleanly, enter the fraction.** That single habit removes the whole category of entry errors.
+3. `11/4` (or `2.75`) — 4x = 11.
+4. `1240.5` won't fit in 5 characters — and that's the lesson: **real SAT answers always fit the entry box.** If your value doesn't fit, your value is wrong; re-solve.
+5. `5/6` or `.8333` — truncating to fill all spaces is accepted; `0.83` or `.83` is not. The fraction is safest.
+6. `47/3` — the mean is 47/3 = 15.666..., and `15.66`/`15.67` uses 5 characters where the repeating decimal really wants more precision than fits comfortably; SAT scoring accepts `15.66` (truncated, filled) and `15.67` (rounded, filled), but the fraction has zero risk. **When a decimal repeats, enter the fraction.**
+7. `9/4` (or `2.25`) — 8x = 18.
+8. `150` — 5π/6 × 180/π.
+9. Any value strictly between 4 and 6, e.g. `5`.
+10. `-.375` or `-3/8` — six characters are allowed for negatives.
